@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Job Recommendation
 ==============================
 
@@ -55,3 +56,6 @@ Project Organization
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+=======
+# Job-Recommendation
+>>>>>>> eb321b328bf4d516d8e3aa06f1ee5b0b8e8339fd
