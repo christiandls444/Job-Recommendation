@@ -1,8 +1,7 @@
-<<<<<<< HEAD
 Job Recommendation
 ==============================
 
-A short description of the project.
+The "Job Recommendation" project is focused on revolutionizing the HR domain by leveraging deep learning and NLP techniques. By utilizing Bi-LSTM with attention, the project aims to develop a machine learning model that can learn the progression of job selection by candidates and provide personalized recommendations. Through the extraction of latent competencies from embedded features, such as skills, the model aims to address cold-start issues and improve the coverage in the skill domain, ultimately enhancing the accuracy and relevance of job recommendations.
 
 Project Organization
 ------------
